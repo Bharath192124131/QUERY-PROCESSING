@@ -1,6 +1,6 @@
 ## QUERY-PROCESSING
 
-## 1 ## https://github.com/Bharath192124131/QUERY-PROCESSING/blob/main/1.py
+## 1 ## ![CODE]https://github.com/Bharath192124131/QUERY-PROCESSING/blob/main/1.py
 ![image](https://github.com/Bharath192124131/QUERY-PROCESSING/assets/113881189/05d7e449-90b1-4069-80cc-b46a97b6579d)
 
 ## 2
